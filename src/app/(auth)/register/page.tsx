@@ -3,8 +3,8 @@ import Link from 'next/link'
 
 import { Button } from '@/components/Button'
 import { SelectField, TextField } from '@/components/Fields'
-import { Logo } from '@/components/Logo'
 import { SlimLayout } from '@/components/SlimLayout'
+import Logo from '@/components/Logo'
 
 export const metadata: Metadata = {
   title: 'Sign Up',
