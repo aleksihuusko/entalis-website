@@ -2,6 +2,8 @@
 
 Entalis is a website built using [Tailwind CSS](https://tailwindcss.com) and [Next.js](https://nextjs.org).
 
+![entalis](https://github.com/user-attachments/assets/1971212d-0c79-409f-a6a7-fd874e094e3f)
+
 ## Getting started
 
 To get started with this website, first install the npm dependencies:
